@@ -1,2 +1,2 @@
-# onigiri-feedback
-Onigiri.kr 피드백 전용 레포입니다.
+# onigiri
+Onigiri.kr 오류 제보 및 건의사항을 올려주세요
